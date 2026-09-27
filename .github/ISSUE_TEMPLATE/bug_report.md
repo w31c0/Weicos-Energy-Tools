@@ -4,6 +4,7 @@ about: Create a report to help us improve
 title: ''
 labels: ''
 assignees: ''
+type: Bug
 
 ---
 
@@ -25,7 +26,7 @@ If applicable, add screenshots to help explain your problem.
 3. NeoForge version:
 4. Other mods installed:
 
-**Log**
+**Log File**
 If the game crashed or produced an error, please attach the relevant log or crash report here.
 
 **Additional context**
